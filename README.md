@@ -25,14 +25,21 @@ Here are some popular excel shortcuts I learnt The Incubator Hub, All thanks to 
 
 ## EXCEL SKILLS LEARNED
 Key Skills Learned
+
 🔗 Basic Operations: creating tables and managing worksheets, format cells, and performing basic arithmetic operations.
+
 🔗 Functions and Formulas: These are Excel functions, such as SUM, AVERAGE, and COUNT, and creating formulas to perform calculations.
+
 🔗 Data Analysis: Analyzing data using tools like pivot tables, charts, and graphs.
+
 🔗 Data Visualization: Creating visualizations like charts, tables, and dashboards to present data effectively.
+
 🔗 Shortcuts and Productivity
  
 Advance Topics
+
 🔗 VLOOKUP and INDEX-MATCH: Using VLOOKUP and INDEX-MATCH functions to perform lookups and data retrieval.
+
 🔗 PivotTables and Pivot Charts: Using PivotTables and Pivot Charts to summarise reports.
 
 
