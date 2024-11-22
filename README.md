@@ -1,6 +1,6 @@
 # EXCEL SHORTCUTS
 
-Here are some popular excel shortcuts I learnt The Incubator Hub, All thanks to the Sponsor (Mummy G O), The Incubator Hub and all our facilitators.
+Here are some popular excel shortcuts I learnt The Incubator Hub
 * Ctrl + 1 (Format Cell)
 * Ctrl + ; (Current Date)
 * Ctrl + Shift + 3 (Change Date Format)
