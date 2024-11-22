@@ -55,6 +55,53 @@ Advance Topics
 ![1731660321290](https://github.com/user-attachments/assets/026b1550-cdc7-4a3b-bf8d-54f88863a3b8)
 
 
+## Arithmetic Formulas
+
+1. SUM: =SUM(range) - Adds up a range of cells.
+
+2. AVERAGE: =AVERAGE(range) - Calculates the average of a range of cells.
+
+3. PRODUCT: =PRODUCT(range) - Multiplies a range of cells.
+ 
+## Logical Formulas
+
+1. IF: =IF(logical_test, [value_if_true], [value_if_false]) - Tests a condition and returns one value if true and another value if false.
+
+2. AND: =AND(logical1, [logical2], ...) - Tests multiple conditions and returns true if all conditions are true.
+
+3. OR: =OR(logical1, [logical2], ...) - Tests multiple conditions and returns true if any condition is true.
+ 
+## Statistical Formulas
+
+1. MAX: =MAX(range) - Returns the maximum value in a range of cells.
+
+2. MIN: =MIN(range) - Returns the minimum value in a range of cells.
+
+3. STDEV: =STDEV(range) - Calculates the standard deviation of a range of cells.
+ 
+## Text Formulas
+
+1. CONCATENATE: =CONCATENATE(text1, [text2], ...) - Joins two or more text strings into a single text string.
+
+2. LOWER: =LOWER(text) - Converts text to lowercase.
+
+3. UPPER: =UPPER(text) - Converts text to uppercase.
+ 
+## Date and Time Formulas
+
+1. TODAY: =TODAY() - Returns the current date.
+
+2. NOW: =NOW() - Returns the current date and time.
+
+3. DATEDIF: =DATEDIF(start_date, end_date, unit) - Calculates the difference between two dates in a specified unit (e.g., days, months, years).
+ 
+## 😎 Lookup and Reference Formulas
+ 
+1. VLOOKUP: =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup]) - Looks up a value in a table and returns a corresponding value from another column.
+
+2. INDEX/MATCH: =INDEX(range, MATCH(lookup_value, lookup_array, [match_type]) - Returns a value at the intersection of a row and column in a table.
+
+3. HLOOKUP: =HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup]) - Looks up a value in a table and returns a corresponding value from another row.
 
 
 
